@@ -1,7 +1,6 @@
 #include <stdio.h>
 /**
- * main - Entry point
- * Description: 'the program's description'
+ * main - A programme that print various computer types
  * Return: Always 0 (Success)
  */
 int main(void)
