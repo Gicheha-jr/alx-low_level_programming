@@ -1,4 +1,3 @@
-julien@ubuntu:~/0x06$ cat 100-main.c
 #include "main.h"
 #include <stdio.h>
 
